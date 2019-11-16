@@ -1,8 +1,8 @@
 # QuantEcon-RSE Intensive Course on Computational Modeling
 
 This is the homepage for the 2019 QuantEcon-RSE Intensive Course on
-Computational Modeling, jointly organized by the Research School of
-Economics (RSE) at ANU, QuantEcon and the Australian Treasury.
+Computational Modeling, jointly organized by the [Research School of
+Economics](https://www.rse.anu.edu.au/) (RSE) at ANU, [QuantEcon](https://quantecon.org/) and the Australian Treasury.
 
 The event is sposored by RSE.
 
@@ -15,7 +15,7 @@ The course will be held at Australian National University in Canberra.
 
 * Dates: Monday 16th Dec -- Friday 20th Dec 2019
 * Hours: 9am -- 5pm, Monday to Friday
-* Lecture Room: Fred Gruen Seminar Room, HW Arndt Building, RSE
+* Lecture Room: [Fred Gruen Seminar Room](https://studentvip.com.au/anu/main/maps/84590), HW Arndt Building, RSE
 
 #### Social events
 
