@@ -9,26 +9,34 @@ The event is sposored by RSE.
 
 ## Location and Dates
 
-Dates: Monday 16th Dec -- Friday 20th Dec 2019
-Hours: 9am -- 5pm, Monday to Friday
-Lecture Room: Room XXXX (TBA), Australian National University
+The course will be held at Australian National University in Canberra.
 
-Welcome dinner: XXXX
-Social event: XXXX
+#### Lectures
 
+* Dates: Monday 16th Dec -- Friday 20th Dec 2019
+* Hours: 9am -- 5pm, Monday to Friday
+* Lecture Room: Fred Gruen Seminar Room, HW Arndt Building, RSE
+
+#### Social events
+
+Day 1 Mon 16 Dec -Social Event on RSE terrace Courtyard 5-7pm:
+Day 4 Thurs 19 Dec – Workshop Dinner at Badger and Co
+
+## Equipment
+
+Participants are expected to bring a laptop with the latest version of
+[Anaconda Python](https://www.anaconda.com/distribution/) installed.
 
 ## Prior to Arrival
-
-You are required to bring a laptop with 
-the latest version of [Anaconda Python](https://www.anaconda.com/distribution/) installed.
 
 Prior to arrival, all participants are expected to read and step through all 6 lectures in the
 section [Introduction to Python](https://python.quantecon.org/index_learning_python.html) of the [QuantEcon Python lectures](https://python.quantecon.org).
 
 Please anticipate spending at least one hour per lecture on this task.
 
-All participants are required to sign up to [GitHub](https://github.com/), since we will be using it
-to communicate and share code throughout the workshop.
+All participants are required to sign up to [GitHub](https://github.com/),
+since we will be using it to communicate and share code throughout the
+workshop.
 
 
 ## Contacts
@@ -46,7 +54,8 @@ There will be both morning lectures and ad hoc lectures in the afternoon.
 
 Monday: Scientific Python
 
-    * Some time to intro course, discuss Python
+    * Introduction to the course
+    * Discussion of Python
     * NumPy & SciPy
     * Matplotlib
     * Numba
@@ -54,7 +63,7 @@ Monday: Scientific Python
 Tuesday: Introduction to Dynamics
 
     * 45 degree diagrams
-    * Finite MCs
+    * Finite Markov Chains
     * Inventory dynamics
     * Linear Gaussian models in one dimension
     * Wealth dynamics (consumption-savings with a fixed savings rate)
