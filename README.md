@@ -19,8 +19,8 @@ The course will be held at Australian National University in Canberra.
 
 #### Social events
 
-Day 1 Mon 16 Dec -Social Event on RSE terrace Courtyard 5-7pm:
-Day 4 Thurs 19 Dec – Workshop Dinner at Badger and Co
+* Day 1 Mon 16 Dec -- Welcome Dinner, RSE terrace Courtyard 5-7pm
+* Day 4 Thurs 19 Dec -- Workshop Dinner at Badger and Co
 
 ## Equipment
 
@@ -49,6 +49,11 @@ workshop.
 ## Teaching Schedule
 
 There will be both morning lectures and ad hoc lectures in the afternoon.
+Exercises will be provided in the morning lectures and participants are
+invited to remain in the seminar room for exercises throughout the afternoon.
+A teaching assistant will be present to provide help.
+
+
 
 ### Morning Lectures (9am -- 12 noon)
 
