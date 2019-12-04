@@ -48,14 +48,15 @@ workshop.
 
 ## Teaching Schedule
 
-There will be both morning lectures and ad hoc lectures in the afternoon.
-Exercises will be provided in the morning lectures and participants are
-invited to remain in the seminar room for exercises throughout the afternoon.
-A teaching assistant will be present to provide help.
+There will be a sequence of morning lectures and several ad hoc, informal
+lectures in the afternoon.  Exercises will be provided in the morning lectures
+and participants are invited to remain in the seminar room for exercises
+throughout the afternoon.  A teaching assistant will be present to provide
+help.
 
 
 
-### Morning Lectures (9am -- 12 noon)
+### Morning Lectures (9am--12 noon, Monday to Friday)
 
 Monday: Scientific Python
 
@@ -64,28 +65,30 @@ Monday: Scientific Python
     * NumPy & SciPy
     * Matplotlib
     * Numba
+    * Parallelization
+    * Heavy-tailed distributions
 
 Tuesday: Introduction to Dynamics
 
     * 45 degree diagrams
-    * Finite Markov Chains
+    * Finite Markov chains
     * Inventory dynamics
-    * Linear Gaussian models in one dimension
+    * Linear models
+    * Kesten Processes and firm dynamics
+
+Wednesday: More Dynamics 
+
     * Wealth dynamics (consumption-savings with a fixed savings rate)
-
-Wednesday: Introduction to Dynamic Programming
-
-    * Shortest path
+    * Shortest problems path
     * Job search with finite state space
-    * Job search with finite state space, correlated wages
-    * Job search with infinite state space (reduce to 1D?)
-    * Search with learning?
+    * Job search with separation
 
 Thursday: More DP
 
-    * Firm dynamics
-    * Optimal entry and exit
-    * Hopenhayn's entry-exit model
+    * Fitted value function iteration
+    * Job search with correlated wages
+    * Job search with learning
+    * The stochastic optimal growth model
 
 Friday: Structural estimation
 
@@ -94,6 +97,12 @@ Friday: Structural estimation
     * Simulating consumption paths
     * Method of simulated moments
 
-### Afternoon Lectures
 
-TBA
+### Afternoon Lectures (4pm--5pm, Monday to Thursday)
+
+
+* Monday: Introduction to git and GitHub (Matt McKay)
+* Tuesday: pandas and data science (Varun Satish)
+* Wednesday: Computational modeling at Treasury (Yi Yong Cai and Sebastian Wende)
+* Thursday: Computational modeling at the RBA (TBA)
+
