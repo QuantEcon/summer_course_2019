@@ -60,32 +60,32 @@ help.
 
 Monday: Scientific Python
 
-    * Introduction to the course
+    * Python for scientific computing
     * NumPy 
     * SciPy
     * Matplotlib
     * Numba
     * Parallelization
-    * Coding principles (writing good code)
 
 Tuesday: Introduction to Dynamics
 
+    * Coding principles (writing good code)
     * Heavy-tailed distributions
     * Dynamics in one dimension
+    * AR(1) processes
     * Finite Markov chains
-    * Inventory dynamics
-    * Linear state space models
-    * Kesten processes and firm dynamics
 
 Wednesday: Dynamics and Optimization
 
+    * Inventory dynamics
+    * Kesten processes and firm dynamics
     * Wealth dynamics (fixed savings rate)
     * Shortest problems path
     * Job search with finite state space
-    * Job search with separation
 
 Thursday: More Dynamic Programming
 
+    * Job search with separation
     * Fitted value function iteration
     * Job search with correlated wages
     * Job search with learning
