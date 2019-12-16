@@ -65,11 +65,11 @@ Monday: Scientific Python
     * SciPy
     * Matplotlib
     * Numba
-    * Parallelization
 
 Tuesday: Introduction to Dynamics
 
     * Coding principles (writing good code)
+    * Parallelization
     * Heavy-tailed distributions
     * Dynamics in one dimension
     * AR(1) processes
