@@ -73,23 +73,20 @@ Tuesday: Introduction to Dynamics
     * Heavy-tailed distributions
     * Dynamics in one dimension
     * AR(1) processes
-    * Finite Markov chains
 
 Wednesday: Dynamics and Optimization
 
     * Inventory dynamics
     * Kesten processes and firm dynamics
     * Wealth dynamics (fixed savings rate)
-    * Shortest problems path
-    * Job search with finite state space
 
 Thursday: More Dynamic Programming
 
+    * Shortest path problems 
+    * Job search with finite state space
     * Job search with separation
     * Fitted value function iteration
     * Job search with correlated wages
-    * Job search with learning
-    * The stochastic optimal growth model
 
 Friday: Structural estimation
 
